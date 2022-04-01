@@ -1,0 +1,65 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_sound (9.1.9):
+    - Flutter
+    - flutter_sound_core (= 9.1.9)
+  - flutter_sound_core (9.1.9)
+  - just_audio (0.0.1):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - record (0.0.1):
+    - Flutter
+  - sound_recorder (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - record (from `.symlinks/plugins/record/ios`)
+  - sound_recorder (from `.symlinks/plugins/sound_recorder/ios`)
+
+SPEC REPOS:
+  trunk:
+    - flutter_sound_core
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  Flutter:
+    :path: Flutter
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  record:
+    :path: ".symlinks/plugins/record/ios"
+  sound_recorder:
+    :path: ".symlinks/plugins/sound_recorder/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 4f3e461722055d21515cf3261b64c973c062f345
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_sound: 6881de605c6302cfffd8fc531f37dce0d3eab238
+  flutter_sound_core: 34596cd952a1a6056c52fb07d2102487d2723d51
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  record: 7ee2393532f8553bbb09fa19e95478323b7c0a99
+  sound_recorder: 140a13e135c77d6658f1e26bbd9f0975ea1eae4c
+
+PODFILE CHECKSUM: ce13d36744da294d67f8e460dbb7aed7c09bd7f4
+
+COCOAPODS: 1.11.3
