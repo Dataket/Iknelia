@@ -1,4 +1,4 @@
-# coffee_splashscreen
+# Iknelia App
 
 A new Flutter project.
 
