@@ -45,6 +45,7 @@ dependencies:
     git:
       url: https://github.com/Davenchy/flutter_launcher_icons.git
       ref: fixMinSdkParseFlutter2.8
+  loader_overlay: ^2.0.6
 
 dev_dependencies:
   flutter_test:
